@@ -1,4 +1,7 @@
-### Hi there 👋
+### Coming to you live from the interwebz 👋
+
+"Code is read more often than it is written."
+
 
 <!--
 **maglfmn/maglfmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
