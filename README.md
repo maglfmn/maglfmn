@@ -1,7 +1,3 @@
-# Coming to you live from the interwebz 
-
-Hello there. 👋
-
 ## I value
 * Clean, linted, alpha-sorted code.
 * Tests, tests, tests. Tests that make sense, tell a story, and explain *why* something works the way it does.
