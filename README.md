@@ -28,7 +28,7 @@
 * [StarTalk](https://startalkmedia.com/)
 * [The Vergecast](https://www.theverge.com/the-vergecast)
 
-## Wisdom
+## I respect
 * Code is read more often than it is written.
 * Murphy was an optimist.
 
