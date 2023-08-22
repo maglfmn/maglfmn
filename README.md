@@ -1,12 +1,36 @@
-### Coming to you live from the interwebz 👋
+# Coming to you live from the interwebz 
 
-"Code is read more often than it is written."
+Hello there. 👋
+
+## I value
+* Clean, linted, alpha-sorted code.
+* Tests, tests, tests. Tests that make sense, tell a story, and explain *why* something works the way it does.
+* Randomness, but reproducibility when requested.
+* Respect for others skills, strengths, weaknesses, and gaps across all levels.
+
+## I work on/in
+* Python
+* Relational databases
+* APIs
+
+## I use
+* Editor: [Sublime Text](https://www.sublimetext.com/) / [Nova](https://nova.app/)
+* Git: [Tower](https://www.git-tower.com/mac) / [Fork](https://git-fork.com/) / [Sublime Merge](https://www.sublimemerge.com/)
+* Database: [TablePlus](https://tableplus.com/) / [Postico](https://eggerapps.at/postico2/)
+* Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/?redirect_source=getfirefox-com)
+* Security: [1Password](https://1password.com/)
+* Notetaking: [UpNote](https://getupnote.com/)
+* Transfers: [Transmit](https://panic.com/transmit/)
+* Diagrams: [yEd](https://www.yworks.com/products/yed)
+* Terminal: [iTerm](https://iterm2.com/) / [Warp](https://www.warp.dev/)
+* Utilities: [DaisyDisk](https://daisydiskapp.com/) / [iStatMenus](https://bjango.com/mac/istatmenus/) / [SpeedTest](https://www.speedtest.net/apps) / [Vivid](https://www.getvivid.app/)
+
+Wisdom to live by:
+* "Code is read more often than it is written."
 
 
 <!--
 **maglfmn/maglfmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
