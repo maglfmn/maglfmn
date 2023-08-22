@@ -6,6 +6,7 @@
 
 ## I work on/in
 * Python
+* Django / Flask
 * Relational databases
 * APIs
 
@@ -21,9 +22,15 @@
 * Terminal: [iTerm](https://iterm2.com/) / [Warp](https://www.warp.dev/)
 * Utilities: [DaisyDisk](https://daisydiskapp.com/) / [iStatMenus](https://bjango.com/mac/istatmenus/) / [SpeedTest](https://www.speedtest.net/apps) / [Vivid](https://www.getvivid.app/)
 
-Wisdom to live by:
-* "Code is read more often than it is written."
+## I listen to
+* [Accidental Tech Podcast (ATP)](https://atp.fm/)
+* [Smartless](https://www.smartless.com/)
+* [StarTalk](https://startalkmedia.com/)
+* [The Vergecast](https://www.theverge.com/the-vergecast)
 
+## Wisdom
+* Code is read more often than it is written.
+* Murphy was an optimist.
 
 <!--
 **maglfmn/maglfmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
