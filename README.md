@@ -21,6 +21,7 @@
 * Transfers: [Transmit](https://panic.com/transmit/)
 * Diagrams: [yEd](https://www.yworks.com/products/yed)
 * Terminal: [iTerm](https://iterm2.com/) / [Warp](https://www.warp.dev/)
+* Launcher: [Raycast](https://www.raycast.com)
 * Utilities: [DaisyDisk](https://daisydiskapp.com/) / [iStatMenus](https://bjango.com/mac/istatmenus/) / [SpeedTest](https://www.speedtest.net/apps) / [Vivid](https://www.getvivid.app/)
 
 ## I listen to
