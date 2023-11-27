@@ -11,10 +11,6 @@
 * Relational databases
 * APIs
 
-## I work at
-
-* [Wagestream](https://wagestream.com/en-us/): Providing fair financial services to every frontline worker
-
 ## I use
 * Editor: [Sublime Text](https://www.sublimetext.com/) / [Nova](https://nova.app/)
 * Git: [Tower](https://www.git-tower.com/mac) / [Fork](https://git-fork.com/) / [Sublime Merge](https://www.sublimemerge.com/)
