@@ -3,6 +3,7 @@
 * Tests, tests, tests. Tests that make sense, tell a story, and explain *why* something works the way it does.
 * Randomness, but reproducibility when requested.
 * Respect for others skills, strengths, weaknesses, and gaps across all levels.
+* Visual representations of complex problems.
 * Enjoying the purpose in what you do every day.
 
 ## I work on/in
