@@ -20,7 +20,7 @@
 * Security: [1Password](https://1password.com/)
 * Notetaking: [UpNote](https://getupnote.com/)
 * Transfers: [Transmit](https://panic.com/transmit/)
-* Diagrams: [yEd](https://www.yworks.com/products/yed)
+* Diagrams: [yEd](https://www.yworks.com/products/yed), [LucidCharts](https://www.lucidchart.com/pages)
 * Terminal: [iTerm](https://iterm2.com/) / [Warp](https://www.warp.dev/)
 * Launcher: [Raycast](https://www.raycast.com)
 * Utilities: [DaisyDisk](https://daisydiskapp.com/) / [iStatMenus](https://bjango.com/mac/istatmenus/) / [SpeedTest](https://www.speedtest.net/apps) / [Vivid](https://www.getvivid.app/)
