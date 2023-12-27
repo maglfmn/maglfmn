@@ -36,9 +36,9 @@
 * Murphy was an optimist.
 
 ## I'm interested in
-* Volvo (Someday, an EX30... For now, an XC90)
-* F1 (Alonso, Norris, Hamilton)
-* University of Kansas (Rock Chalk!)
+* [Volvo](https://www.volvocars.com/us/) (Someday, an [EX30](https://www.volvocars.com/us/cars/ex30-electric)... For now, an [XC90](https://www.volvocars.com/us/cars/xc90/))
+* [F1](https://www.formula1.com) (Alonso, Norris, Hamilton)
+* [University of Kansas](https://ku.edu) (Rock Chalk!)
 * Science/nature/travel
 
 <!--
