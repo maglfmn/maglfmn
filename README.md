@@ -35,6 +35,12 @@
 * Code is read more often than it is written.
 * Murphy was an optimist.
 
+## I'm interested in
+* Volvo (Someday, an EX30... For now, an XC90)
+* F1 (Alonso, Norris, Hamilton)
+* University of Kansas (Rock Chalk!)
+* Science/nature/travel
+
 <!--
 **maglfmn/maglfmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
