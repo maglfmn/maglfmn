@@ -41,6 +41,7 @@
 * [F1](https://www.formula1.com) (Alonso, Norris, Hamilton)
 * [University of Kansas](https://ku.edu) (Rock Chalk!)
 * Science/nature/travel
+* Woodworking / home renovation projects
 
 <!--
 **maglfmn/maglfmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
