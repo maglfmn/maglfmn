@@ -9,7 +9,7 @@
 
 ## I work on/in
 * Python
-* Django / Flask
+* Django / Flask (FastAPI, you're next)
 * Relational databases
 * APIs
 
