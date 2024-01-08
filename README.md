@@ -7,7 +7,7 @@
 * Meaningful mentorships.
 * Enjoying the purpose in what you do every day.
 
-## I enjoy working with
+## I enjoy
 * Python
 * Django / Flask (FastAPI, you're next)
 * Relational databases
