@@ -7,11 +7,12 @@
 * Meaningful mentorships.
 * Enjoying the purpose in what you do every day.
 
-## I work on/in
+## I enjoy working with
 * Python
 * Django / Flask (FastAPI, you're next)
 * Relational databases
 * APIs
+* (previously) Ruby (Rails), PHP
 
 ## I use
 * Editor: [Sublime Text](https://www.sublimetext.com/) / [Nova](https://nova.app/)
