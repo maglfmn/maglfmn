@@ -11,7 +11,7 @@
 * Python
 * Django / Flask (FastAPI, you're next)
 * Relational databases (MySQL, Postgres)
-* APIs
+* APIs (+ auto-generated documentation)
 * Testing
 * (previously) Ruby (Rails), PHP
 
@@ -25,6 +25,7 @@ Spitting out this extra (non-exhaustive) list of technologies I've used, touched
 * Docker / Docker Compose (OneOme, SmartThings, Repositax)
 * Elasticsearch (Liftopia, Skykit, Repositax)
 * Google Cloud Platform (Skykit)
+* Grafana (Wagestream)
 * Jinja (OneOme, Wagestream)
 * Kafka, Kinesis (SmartThings)
 * Kubernetes (Skykit)
