@@ -14,7 +14,7 @@
 * APIs (+ auto-generated documentation)
 * Testing
 * (previously) Ruby (Rails), PHP
-
+<!-- 
 ## I have used
 Spitting out this extra (non-exhaustive) list of technologies I've used, touched, ran, or generally been exposed to.
 
@@ -35,7 +35,7 @@ Spitting out this extra (non-exhaustive) list of technologies I've used, touched
 * SumoLogic (Liftopia, OneOme, SmartThings)
 * Terraform (SmartThings, Skykit)
 * uWSGI (OneOme)
-
+-->
 ## I respect
 * Code is read more often than it is written.
 * Murphy was an optimist.
