@@ -87,6 +87,12 @@ Sublime Text --» Settings --» Settings
 * [Oceanic](https://github.com/memco/Oceanic-tmTheme)
 * [Okami](https://github.com/Rayraegah/okami)
 
+### System alias
+For opening Sublime from the command line, add to `~/.zshrc` file:
+```
+alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
+```
+
 ### [Nova](https://nova.app/)
 
 ## Git
@@ -97,6 +103,7 @@ Sublime Text --» Settings --» Settings
 ## Database
 * [TablePlus](https://tableplus.com/) -- My favorite
 * [Postico](https://eggerapps.at/postico2/) -- Solid features
+* [DBeaver](https://dbeaver.io/) -- Terrible looking UI, but free and supports a LOT
 
 ## Browser
 * Safari
@@ -186,6 +193,6 @@ The gold standard.
 * [Vivid](https://www.getvivid.app/) -- Good for unlocking the full brightness of the MacBook Pro display, especially when working outdoors
 * [Dropbox](https://www.dropbox.com)
 * [Magnet](https://magnet.crowdcafe.com) -- For easy window positioning
-
-
-
+* [Hand Mirror](https://handmirror.app) -- For quick checking of camera
+* [Typora](https://typora.io/) -- For editing markdown, WYSIWYG
+* [Karabiner Elements](https://karabiner-elements.pqrs.org/) -- For remapping keyboard keys
