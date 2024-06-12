@@ -196,3 +196,4 @@ The gold standard.
 * [Hand Mirror](https://handmirror.app) -- For quick checking of camera
 * [Typora](https://typora.io/) -- For editing markdown, WYSIWYG
 * [Karabiner Elements](https://karabiner-elements.pqrs.org/) -- For remapping keyboard keys
+* [Ice](https://github.com/jordanbaird/Ice) -- Menubar manager for MacOS (replaces Bartender)
