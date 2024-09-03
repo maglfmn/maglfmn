@@ -41,7 +41,7 @@ Spitting out this extra (non-exhaustive) list of technologies I've used, touched
 * Murphy was an optimist.
 
 ## I install
-* Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/?redirect_source=getfirefox-com)
+* Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/?redirect_source=getfirefox-com) / [Safari](https://support.apple.com/guide/safari/welcome/mac))
 * Database: [TablePlus](https://tableplus.com/) / [Postico](https://eggerapps.at/postico2/)
 * Diagrams: [yEd](https://www.yworks.com/products/yed), [LucidCharts](https://www.lucidchart.com/pages)
 * Editor: [Sublime Text](https://www.sublimetext.com/) / [Nova](https://nova.app/)
