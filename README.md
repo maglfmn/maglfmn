@@ -6,6 +6,7 @@
 * Respect for others skills, strengths, weaknesses, and gaps across all levels.
 * Meaningful mentorships.
 * Enjoying the purpose in what you do every day.
+* Transparency.
 
 ## I enjoy most
 * Python
