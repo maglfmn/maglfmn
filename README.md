@@ -14,10 +14,11 @@
 * Relational databases (MySQL, Postgres)
 * APIs (+ auto-generated documentation)
 * Testing
-* (previously) Ruby (Rails), PHP
 <!-- 
 ## I have used
 Spitting out this extra (non-exhaustive) list of technologies I've used, touched, ran, or generally been exposed to.
+
+* (previously) Ruby (Rails), PHP
 
 * Amazon Web Services (Liftopia, OneOme, SmartThings, Wagestream)
 * Ansible (OneOme, SmartThings)
