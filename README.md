@@ -43,13 +43,18 @@ Spitting out this extra (non-exhaustive) list of technologies I've used, touched
 * Murphy was an optimist.
 
 ## I install
+* APIs: [Bruno](https://www.usebruno.com/) / [Postman](https://www.postman.com/)
 * Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/?redirect_source=getfirefox-com) / [Safari](https://support.apple.com/guide/safari/welcome/mac)
+* Calendar: [Fantastical](https://flexibits.com/fantastical)
 * Database: [TablePlus](https://tableplus.com/) / [Postico](https://eggerapps.at/postico2/)
 * Diagrams: [yEd](https://www.yworks.com/products/yed), [LucidCharts](https://www.lucidchart.com/pages)
 * Editor: [Sublime Text](https://www.sublimetext.com/) / [Nova](https://nova.app/)
-* Git: [Tower](https://www.git-tower.com/mac) / [Fork](https://git-fork.com/) / [Sublime Merge](https://www.sublimemerge.com/)
+* Git: [Fork](https://git-fork.com/) / [Tower](https://www.git-tower.com/mac) / [Sublime Merge](https://www.sublimemerge.com/)
 * Launcher: [Raycast](https://www.raycast.com)
+* Markdown: [Typora](https://typora.io/)
 * Notetaking: [UpNote](https://getupnote.com/)
+* RSS Reader: [Unread](https://www.goldenhillsoftware.com/unread/)
+* Screenshots: [Shottr](https://shottr.cc/)
 * Security: [1Password](https://1password.com/)
 * Terminal: [iTerm](https://iterm2.com/) / [Warp](https://www.warp.dev/)
 * Transfers: [Transmit](https://panic.com/transmit/)
