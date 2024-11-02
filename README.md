@@ -58,7 +58,7 @@ Spitting out this extra (non-exhaustive) list of technologies I've used, touched
 * Security: [1Password](https://1password.com/)
 * Terminal: [iTerm](https://iterm2.com/) / [Warp](https://www.warp.dev/)
 * Transfers: [Transmit](https://panic.com/transmit/)
-* Utilities: [DaisyDisk](https://daisydiskapp.com/) / [iStatMenus](https://bjango.com/mac/istatmenus/) / [SpeedTest](https://www.speedtest.net/apps) / [Vivid](https://www.getvivid.app/)
+* Utilities: [DaisyDisk](https://daisydiskapp.com/) / [iStatMenus](https://bjango.com/mac/istatmenus/) / [SpeedTest](https://www.speedtest.net/apps) / [Vivid](https://www.getvivid.app/) / [HiddenBar](https://github.com/dwarvesf/hidden)
 
 ## I listen to
 * [Accidental Tech Podcast (ATP)](https://atp.fm/)
