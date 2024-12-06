@@ -13,7 +13,7 @@
 * Django / Flask (FastAPI, you're next)
 * Relational databases (MySQL, Postgres)
 * APIs (+ auto-generated documentation)
-* Testing
+* Testing, testing, testing
 <!-- 
 ## I have used
 Spitting out this extra (non-exhaustive) list of technologies I've used, touched, ran, or generally been exposed to.
