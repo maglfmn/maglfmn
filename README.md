@@ -72,3 +72,6 @@ Spitting out this extra (non-exhaustive) list of technologies I've used, touched
 * [University of Kansas](https://ku.edu) (Rock Chalk!)
 * Science/nature/travel
 * Woodworking / home renovation projects
+
+## Other
+* https://github.com/sevlie-artisan
