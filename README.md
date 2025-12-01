@@ -20,14 +20,14 @@ Spitting out this extra (non-exhaustive) list of technologies I've used, touched
 
 * (previously) Ruby (Rails), PHP
 
-* Amazon Web Services (Liftopia, OneOme, SmartThings, Wagestream)
+* Amazon Web Services (Liftopia, OneOme, SmartThings, Wagestream, Artisan)
 * Ansible (OneOme, SmartThings)
-* Celery (OneOme, Skykit, Repositax, Wagestream)
+* Celery (OneOme, Skykit, Repositax, Wagestream, Artisan)
 * DataDog (SmartThings)
 * Docker / Docker Compose (OneOme, SmartThings, Repositax)
 * Elasticsearch (Liftopia, Skykit, Repositax)
 * Google Cloud Platform (Skykit)
-* Grafana (Wagestream)
+* Grafana (Wagestream, Artisan)
 * Jinja (OneOme, Wagestream)
 * Kafka, Kinesis (SmartThings)
 * Kubernetes (Skykit)
@@ -48,7 +48,7 @@ Spitting out this extra (non-exhaustive) list of technologies I've used, touched
 * Calendar: [Fantastical](https://flexibits.com/fantastical)
 * Database: [TablePlus](https://tableplus.com/) / [Postico](https://eggerapps.at/postico2/)
 * Diagrams: [yEd](https://www.yworks.com/products/yed), [LucidCharts](https://www.lucidchart.com/pages)
-* Editor: [Sublime Text](https://www.sublimetext.com/) / [Nova](https://nova.app/)
+* Editor: [PyCharm](https://www.jetbrains.com/pycharm/) / [Sublime Text](https://www.sublimetext.com/) / [Nova](https://nova.app/)
 * Git: [Fork](https://git-fork.com/) / [Tower](https://www.git-tower.com/mac) / [Sublime Merge](https://www.sublimemerge.com/)
 * Launcher: [Raycast](https://www.raycast.com)
 * Markdown: [Typora](https://typora.io/)
